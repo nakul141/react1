@@ -1,4 +1,4 @@
-# React project by Shardendu prajapati
+# React project by Nakul Dwivedi
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
